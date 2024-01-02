@@ -19,4 +19,4 @@ def uwu():
   for i in range(60):
     cool()
     
-cool()
+uwu()
